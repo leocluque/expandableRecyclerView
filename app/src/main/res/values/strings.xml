@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">expandableRecyclerView</string>
+
+    <string name="one">Pergunta 1</string>
+    <string name="answerOne">Resposta 1</string>
+    <string name="two">Pergunta 2</string>
+    <string name="answerTwo">Resposta 2</string>
+    <string name="three">Pergunta 3</string>
+    <string name="answerThree">Resposta 3</string>
+</resources>
